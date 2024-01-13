@@ -18,3 +18,13 @@ E:\FW_GIT\UhaMaster\obj\Debug\UhaMaster.csproj.GenerateResource.cache
 E:\FW_GIT\UhaMaster\obj\Debug\UhaMaster.csproj.CoreCompileInputs.cache
 E:\FW_GIT\UhaMaster\obj\Debug\UhaMaster.exe
 E:\FW_GIT\UhaMaster\obj\Debug\UhaMaster.pdb
+C:\Martin\GIT\UhaMaster\bin\Debug\UhaMaster.exe.config
+C:\Martin\GIT\UhaMaster\bin\Debug\UhaMaster.exe
+C:\Martin\GIT\UhaMaster\bin\Debug\UhaMaster.pdb
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.csproj.AssemblyReference.cache
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.frmMain.resources
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.Properties.Resources.resources
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.csproj.GenerateResource.cache
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.csproj.CoreCompileInputs.cache
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.exe
+C:\Martin\GIT\UhaMaster\obj\Debug\UhaMaster.pdb
